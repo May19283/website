@@ -1,17 +1,20 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: Why I Started This Website
+date: "2019-08-04"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+slug: "/posts/why-i-started-this-website/"
+category: "First Post"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+  - "First Post"
+  - "Me"
+description: "This is an introduction to my website and my reasoning behind starting it."
 ---
 
+I started this website as a personal project. My goal was to get to know the amazing people around me and find out their stories.
+
+This website will probably be pretty messy for a while, but I will try to keep it organized.
+<!-- 
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
@@ -76,4 +79,5 @@ We lost a part of ourselves because of this chase after perfection. We forgot ab
 
 Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
 
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0 x).*
+-->

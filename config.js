@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://may19283.github.io',
+  pathPrefix: '/website',
+  title: 'Blog by Meiling Tang',
+  subtitle: 'Intern @ Centaur Technology. \nECE \'20 @ UT Austin.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,16 +25,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Meiling Tang',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Intern @ Centaur Technology. \nECE \'20 @ UT Austin.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'meilingxt@gmail.com',
+      // telegram: '#',
+      // twitter: '#',
+      github: 'github.com/May19283'
+      // rss: '#',
+      // vkontakte: '#'
     }
   }
 };
